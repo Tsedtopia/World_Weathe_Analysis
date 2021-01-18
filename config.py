@@ -12,4 +12,4 @@ import pandas as pd
 
 # Import API key
 weather_api_key="3c1b65be65c2737e746437ba1260c1e7"
-g_key = "AIzaSyBWnVhSsv6c_XZMrTYIZJ-bGqYpwWTp2QE"
+g_key = "AIzaSyCqUzai9cXaaJWeSHK5N3Hj5sivl8seTMI"
